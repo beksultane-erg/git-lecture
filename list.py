@@ -24,3 +24,5 @@ print(array)
 temp = sorted(array)
 temp.reverse()
 print(temp)
+
+print('Hello world!'[::2])
