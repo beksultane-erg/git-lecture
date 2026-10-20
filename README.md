@@ -6,7 +6,7 @@
 
 *italic*
 
---pre--
+~~pre~~
 
 ```bash
 print('Hello')
